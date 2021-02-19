@@ -1,6 +1,6 @@
-# Web API Kotlin e Spring do Zero
+# Web API Kotlin e Spring
 
-**Objetivo:** Criar uma Web API do Zero utilizando Kotlin em um Domínio de Banco usando o framework Spring utilizando uma abordagem funcional.
+**Objetivo:** Uma Web API do Zero utilizando Kotlin em um Domínio de Banco usando o framework Spring utilizando uma abordagem funcional.
 
 ## Tecnologias   
 - Kotlin
